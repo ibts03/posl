@@ -10,7 +10,7 @@
 		<tr>
 			
 			<td>
-				<h1 id = "message"><?php echo "Hello from PGUTY student!"; ?></h1>
+				<h1 id = "message"><?php echo "Шестаков Егор ИБТС-03"; ?></h1>
 				
 			</td>
 		</tr>
